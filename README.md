@@ -4,6 +4,10 @@ TLDR
 
 This project analyzes how the economic and social benefits of climate action policies are distributed across Scottish communities. By combining climate co-benefits modeling with the Scottish Index of Multiple Deprivation, the analysis shows that while nearly all communities benefit from climate action, more affluent areas are expected to receive larger total gains. The project was shortlisted as a top-10 entry in a national climate data challenge.
 
+Recognition
+
+Top-10 shortlisted entry in a national climate data challenge focused on climate policy analytics and public data communication.
+
 About this project
 
 Climate policies are usually evaluated based on how much they reduce greenhouse gas emissions. But many climate actions also produce broader benefits, including improved health, reduced pollution, safer streets, and economic gains.
